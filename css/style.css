@@ -1,0 +1,182 @@
+.nav-li{
+	display: inline-block;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	font-size: 11px;
+	color:#A6ADB4;
+	line-height:20px;
+	vertical-align: middle;
+	margin-top:20px;
+	margin-left:27px;
+}
+.nav-li-logo{
+	color:#FA6980;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	font-size: 13px;
+	line-height:20px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top:18px;
+	margin-left:20px;
+}
+
+.nav-li1{
+	display: inline-block;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	font-size: 11px;
+	line-height:20px;
+	vertical-align: middle;
+	margin-top:20px;
+	margin-left:92px;
+}
+.nav-li2{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top:11px;
+	margin-left:40px;
+}
+.active{
+	color:#343638;
+}
+
+.subject1{
+	font-size: 24px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	color:#202124;
+	margin-bottom:40px;
+
+}
+.page{
+	background: #F6F8F9;
+}
+
+.top-block{
+	width: 1160px;
+	height: 410px;
+	margin:75px auto 0 auto;
+	
+}
+.block1{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 40px;
+	background: #FFFFFF;
+}
+
+.block2{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 40px;
+	background: #FFFFFF;
+}
+
+.block3{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	background: #FFFFFF;
+}
+
+
+
+.par{
+	font-size: 13px;
+	color:#A6ADB4;
+	line-height:23px;
+	width: 280px;
+	font-family: 'Acumin Pro';
+	margin-left:40px;
+	margin-top: 66px;
+}
+
+
+.image1{
+	position: relative;
+	display: inline-block;
+}
+
+.absolute{
+	position: absolute;
+	top: 28px;
+	left:40px;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	color: #FFFFFF;
+
+}
+
+.big-block{
+	width: 1160px;
+	height: 960px;
+	margin:58px auto 234px auto;
+
+}
+
+
+
+
+
+
+.subject2{
+	font-size: 24px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	color:#202124;
+	
+
+}
+.left-block{
+	width: 760px;
+	height: 900px;
+	display: inline-block;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+.left-block-top{
+	position: relative;
+	margin-bottom: 40px;
+}
+.absolute2{
+	position: absolute;
+	right: 30px;
+	bottom:30px;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	color: #FFFFFF;
+
+
+}
+.right-block{
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top:40px; 
+
+}
+.absolute3{
+	position: absolute;
+	top: 18px;
+	left:40px;
+	font-size: 16px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.right-block1{
+	position: relative;
+}
+.right-block2{
+	margin-top: 102px;
+}
+.right-block3{
+	margin-top: 102px;
+}
